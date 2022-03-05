@@ -1,6 +1,0 @@
-numpy
-matplotlib
-networkx
-ipywidgets
-scipy
-pyautogui
