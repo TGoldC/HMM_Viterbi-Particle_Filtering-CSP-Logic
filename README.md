@@ -1,5 +1,7 @@
-# TUM_AI_Exercises
-These are the exercises of Artificial Intelligence course in TUM.
+# Artificial Intelligence Exercises
+This repository shows some exercises of Artificial Intelligence, which contains topics:  
+* Constraint Satisfaction Problem
+* Logic
+* Hidden Markov Model  
 
-
-For topics: Constraint Satisfaction Problem; Logic; HMM
+The problem statements are discribled in three pdf file, respectively and the main codes are listed in the corresponding folders.
